@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful portfolio template for showing skill sets and educational background!
 
-> https://varadbhogayata.github.io
+> https://abdul-lahad.github.io/SCD-Assignment/
 
 ### Website Preview
 <img src="/images/preview.png" alt="Alt text" title="Optional title">
